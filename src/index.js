@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import EditorContainer from './EditorContainer';
+import { EditorContainer } from './EditorContainer';
 
 function App() {
   return <EditorContainer />;

@@ -8,7 +8,7 @@ export function EditorContainer() {
   return (
     <>
       <div id="editor-container" />
-      <Editor holderId="editor-container" />
+      <Editor holder="editor-container" />
     </>
   );
 }
